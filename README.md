@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jack McKechnie</h1>
-<h3 align="center">An MA Computing Science / French student at the University of Glasgow</h3>
+<h3 align="center">An MA Computing Science / French graduate from the University of Glasgow</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
